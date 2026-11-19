@@ -1,8 +1,8 @@
 # Social Media Management
 
-**Multi-platform social media management with scheduling workflows, content calendars, and engagement strategies across LinkedIn, Twitter/X, Instagram, and Facebook for B2B SaaS.**
+By Helix GTM Consulting (https://gtmhelix.com), built by [Shashwat Ghosh](https://linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo), Co-Founder and Fractional CMO.
 
-Created by [Shashwat Ghosh](https://linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo) - Founder of Helix GTM Consulting
+**Multi-platform social media management with scheduling workflows, content calendars, and engagement strategies across LinkedIn, Twitter/X, Instagram, and Facebook for B2B SaaS.**
 
 ---
 
